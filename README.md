@@ -1,17 +1,6 @@
-# :globe_with_meridians: Developer Portfolio — Shree Hari S B
+# Shree Hari S B — Official Developer Portfolio
 
-<div align="center">
-  <a href="https://shreehari.onrender.com/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-Render-00D2FF?style=for-the-badge&logo=render&logoColor=white" alt="Live Portfolio" />
-  </a>
-  <a href="https://github.com/shrihari12012007-web/shreehari">
-    <img src="https://img.shields.io/badge/Primary_Repository-shreehari-46E3B7?style=for-the-badge&logo=github&logoColor=white" alt="Source Repo" />
-  </a>
-</div>
+Official interactive 3D WebGL developer portfolio of Shree Hari S B, Computer Science Engineer and AI developer, engineered with Three.js, Cannon.js rigid-body physics, procedural engine audio, and responsive modern CSS3 architecture. Featuring a 3D driving road simulation with 360-degree orbital camera dynamics, day/night environmental illumination, full-stack project showcases, downloadable executive resume, and multi-channel instant contact integration.
 
-<br />
-
-Official web portfolio repository for **Shree Hari S B**, showcasing Computer Science Engineering projects, Artificial Intelligence applications, real-time Computer Vision pipelines, and an interactive 3D WebGL driving experience. For full source code and live interactive demo, visit the primary repository at [shreehari](https://github.com/shrihari12012007-web/shreehari) or explore the live site at [shreehari.onrender.com](https://shreehari.onrender.com/).
-
----
-<sub>Maintained by <a href="https://github.com/shrihari12012007-web">Shree Hari S B</a> • B.E. Computer Science & Engineering</sub>
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Render_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://shreehari.onrender.com/)
+[![Primary Repository](https://img.shields.io/badge/Primary_Repository-shreehari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrihari12012007-web/shreehari)
